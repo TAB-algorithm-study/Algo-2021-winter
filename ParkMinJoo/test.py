@@ -1,1 +1,3 @@
-#알고
+# 알고
+print("Hello")
+print("Minjoo")
