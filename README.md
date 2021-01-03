@@ -26,3 +26,9 @@
 ### 1주차 (1월 3일 ~ 1월 9일) : 백준 [#2164(카드2)](https://www.acmicpc.net/problem/2164 ), 프로그래머스 [체육복(탐욕법)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 ### 2주차 (1월 10일 ~ 1월 16일)
+
+주차 | 기간 | 출처 | 문제번호 | 문제이름
+---- | ---- | ---- | -------- | -------
+1주차 | 1월 3일 ~ 1월 9일 | 백준 | 2164 | [카드2](https://www.acmicpc.net/problem/2164)
+1주차 | 1월 3일 ~ 1월 9일 | 프로그래머스 | 그리디 | | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3)
+
