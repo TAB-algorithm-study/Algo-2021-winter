@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		069E7F1D25A4399F00A8238B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E7F1C25A4399F00A8238B /* main.swift */; };
+		06997FA525A6EAEA00BD611C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06997FA425A6EAEA00BD611C /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,9 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		06997FA425A6EAEA00BD611C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		069E7F0E25A4267E00A8238B /* TAB-ALGO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TAB-ALGO"; sourceTree = BUILT_PRODUCTS_DIR; };
 		069E7F1125A4267E00A8238B /* [BOJ]2164.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[BOJ]2164.swift"; sourceTree = "<group>"; };
-		069E7F1C25A4399F00A8238B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		069E7F1C25A4399F00A8238B /* gym_suit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gym_suit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06997FA125A6EA5200BD611C /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				069E7F1C25A4399F00A8238B /* gym_suit.swift */,
+			);
+			path = Programmers;
+			sourceTree = "<group>";
+		};
 		069E7F0525A4267E00A8238B = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +67,9 @@
 		069E7F1025A4267E00A8238B /* TAB-ALGO */ = {
 			isa = PBXGroup;
 			children = (
+				06997FA125A6EA5200BD611C /* Programmers */,
 				069E7F1925A4395900A8238B /* BOJ */,
-				069E7F1C25A4399F00A8238B /* main.swift */,
+				06997FA425A6EAEA00BD611C /* main.swift */,
 			);
 			path = "TAB-ALGO";
 			sourceTree = "<group>";
@@ -130,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				069E7F1D25A4399F00A8238B /* main.swift in Sources */,
+				06997FA525A6EAEA00BD611C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
