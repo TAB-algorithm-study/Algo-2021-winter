@@ -29,5 +29,5 @@
 1주차 | 1월 3일 ~ 1월 9일 | 백준 | 2164 | [카드2](https://www.acmicpc.net/problem/2164)
 1주차 | 1월 3일 ~ 1월 9일 | 프로그래머스 | 그리디 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3)
 2주차 | 1월 10일 ~ 1월 16일 | 백준 | 1946 | [신입사원](https://www.acmicpc.net/problem/1946) |
-2주차 | 1월 10일 ~ 1월 16일 | 백준 | 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) |
+2주차 | 1월 10일 ~ 1월 16일 | 백준 | 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | 트리 보류 |
 3주차 | 1월 17일 ~ 1월 23일 | 프로그래머스 | 카카오 | [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
