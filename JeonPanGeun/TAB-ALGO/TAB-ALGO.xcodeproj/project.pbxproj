@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		06471E4B25ADC8DE0010C95D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06471E4125ADBD300010C95D /* main.swift */; };
+		068B2CF425B6DCE700895937 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B2CF325B6DCE700895937 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		06471E4125ADBD300010C95D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		06471E4125ADBD300010C95D /* [BOJ]1967.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[BOJ]1967.swift"; sourceTree = "<group>"; };
+		068B2CEB25B6CEF500895937 /* function_develop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = function_develop.swift; sourceTree = "<group>"; };
+		068B2CF325B6DCE700895937 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		06997FA425A6EAEA00BD611C /* [BOJ]1946.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[BOJ]1946.swift"; sourceTree = "<group>"; };
 		069E7F0E25A4267E00A8238B /* TAB-ALGO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TAB-ALGO"; sourceTree = BUILT_PRODUCTS_DIR; };
 		069E7F1125A4267E00A8238B /* [BOJ]2164.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[BOJ]2164.swift"; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				069E7F1C25A4399F00A8238B /* gym_suit.swift */,
+				068B2CEB25B6CEF500895937 /* function_develop.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -70,7 +73,7 @@
 			children = (
 				06997FA125A6EA5200BD611C /* Programmers */,
 				069E7F1925A4395900A8238B /* BOJ */,
-				06471E4125ADBD300010C95D /* main.swift */,
+				068B2CF325B6DCE700895937 /* main.swift */,
 			);
 			path = "TAB-ALGO";
 			sourceTree = "<group>";
@@ -80,6 +83,7 @@
 			children = (
 				069E7F1125A4267E00A8238B /* [BOJ]2164.swift */,
 				06997FA425A6EAEA00BD611C /* [BOJ]1946.swift */,
+				06471E4125ADBD300010C95D /* [BOJ]1967.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -111,11 +115,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1220;
-				LastUpgradeCheck = 1220;
+				LastUpgradeCheck = 1230;
 				TargetAttributes = {
 					069E7F0D25A4267E00A8238B = {
 						CreatedOnToolsVersion = 12.2;
-						LastSwiftMigration = 1220;
+						LastSwiftMigration = 1230;
 					};
 				};
 			};
@@ -142,7 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06471E4B25ADC8DE0010C95D /* main.swift in Sources */,
+				068B2CF425B6DCE700895937 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RKSNRHW63A;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -286,6 +291,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RKSNRHW63A;
 				ENABLE_HARDENED_RUNTIME = YES;
